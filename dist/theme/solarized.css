@@ -43,7 +43,8 @@ html * {
 }
 
 .reveal-viewport {
-  background: #fdf6e3;
+  background: #3f5efb;
+  background: radial-gradient(circle, #3f5efb 0%, #fc466b 100%);
   background-color: var(--r-background-color);
 }
 

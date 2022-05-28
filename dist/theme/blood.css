@@ -45,7 +45,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
 }
 
 .reveal-viewport {
-  background: #222;
+  background: #3f5efb;
+  background: radial-gradient(circle, #3f5efb 0%, #fc466b 100%);
   background-color: var(--r-background-color);
 }
 
