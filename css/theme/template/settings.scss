@@ -42,5 +42,5 @@ $selectionColor: #fff;
 // to return a background image or gradient
 @mixin bodyBackground() {
 	background: rgb(63,94,251);
-    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+    background: radial-gradient(circle, rgba(63,94,251,0.835171568627451) 0%, rgba(170,70,252,0.5998774509803921) 100%);
 }

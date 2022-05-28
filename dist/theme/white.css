@@ -40,7 +40,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 
 .reveal-viewport {
   background: #3f5efb;
-  background: radial-gradient(circle, #3f5efb 0%, #fc466b 100%);
+  background: radial-gradient(circle, rgba(63, 94, 251, 0.8351715686) 0%, rgba(170, 70, 252, 0.599877451) 100%);
   background-color: var(--r-background-color);
 }
 
