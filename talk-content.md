@@ -32,7 +32,7 @@ Bueno, veamos un poco de historia...
 ![La epoca dorada](./dist/assets/womencomputer.webp)
 
 
-![La epoca dorada](./dist/assets/womencomputer.webp)
+![La epoca dorada](./dist/assets/computer-woman.webp)
 
 
 #### Punto de inflexión en los 80
