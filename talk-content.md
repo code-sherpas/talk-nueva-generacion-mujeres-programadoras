@@ -84,7 +84,7 @@ Excepto en Informática...
 
 
 
-Pero... Hay esperanza
+Pero... ¡hay esperanza!
 
 
 
@@ -92,13 +92,14 @@ Pero... Hay esperanza
 
 
 ¿Quiénes son?
+
 ![Foto panel](dist/assets/la-nueva-gen.png)
 
 
 # Valientes
 
 
-# Talentosas
+## (Des)arrolladoras
 
 
 
@@ -110,6 +111,21 @@ Pero... Hay esperanza
 
 
 ¿Qué podemos hacer para impulsarlas?
+
+
+Ayudarlas a
+
+
+# Entrar
+
+
+# Crecer
+
+
+# Permancer
+
+
+¿Cómo?
 
 
 * Paso 1: Formar a mujeres en programación
@@ -125,7 +141,7 @@ Pero... Hay esperanza
 
 
 
-* Si eres empresa
+* Si eres tienes un cargo de responsabilidad en una empres
 * Si eres líder en tech <!-- .element: class="fragment" data-fragment-index="2" -->
 * Si eres un programador <!-- .element: class="fragment" data-fragment-index="3" -->
 * Si eres una comunidad <!-- .element: class="fragment" data-fragment-index="4" -->
@@ -133,7 +149,7 @@ Pero... Hay esperanza
 
 
 
-### Si tienes cargo de responsabilida en una empresa
+### Si tienes cargo de responsabilidad en una empresa
 
 
 ```js
@@ -186,7 +202,7 @@ function SoySponsor() {
 ```
 
 
-Ve a tu entorno del día a día y ejecuta las funciones:
+Ve a tu entorno del día a día y ejecuta:
 ```js
     CrearBuenTerrenoParaQueGerminenLasSemillas()
     ConviérteteEnSponsor()
@@ -214,7 +230,7 @@ function SoyUnAliado() {
 ```
 
 
-Ve a tu entorno de trabajo y ejecuta la función:
+Ve a tu entorno de trabajo y ejecuta:
 
 ```js
 
@@ -229,7 +245,6 @@ SoySponsor()
 * [El respeto y la autoridad se generan según el número de validaciones públicas que recibe una persona cuando expresa una idea.](https://link.springer.com/article/10.1007/BF00987046?noAccess=true)
 
 
-
 ##### Cede espacios
 
 * Da tiempo a que las demás respondan y expresen sus ideas. No te precipites
@@ -237,11 +252,17 @@ SoySponsor()
 A ti te van a a llegar muchas más oportunidades.
 
 
-* Mentoriza: Cuando estés solo, haciendo una tarea interesante y retadora, busca una compañera para hacer pairing.
+##### Cede espacios
 
+* Cuando estés solo, haciendo una tarea interesante y retadora, busca una compañera para hacer pairing.
+
+
+##### Apoya la reputación y credibilidad de tus compañeras
 
 No interrumpas cuando tu compañera está hablando.
-* [La credibilidad  y autoridad de una persona disminuye de forma proporcional al número de interrupciones que recibe](https://web.stanford.edu/~eckert/PDF/jamesClarke.pdf).
+
+
+[La credibilidad  y autoridad de una persona disminuye de forma proporcional al número de interrupciones que recibe](https://web.stanford.edu/~eckert/PDF/jamesClarke.pdf)
 
 
 >  [...]The researchers found 48 total interruptions—and 46 of them were instigated by the man.[...]"
@@ -253,8 +274,7 @@ No interrumpas cuando tu compañera está hablando.
 > Men interrupted 33 percent more often when they spoke with women than when they spoke with other men according to study from **George Washington University**
 
 
-> But there are ways to address the issue, Leslie Shore, a communication expert and author of "Listen to Succeed," writes in *Forbes*. Shore recommends three strategies:
-
+> But **there are ways to address the issue**, Leslie Shore, a communication expert and author of "Listen to Succeed," writes in *Forbes*. Shore **recommends some strategies**:
 
 
 > Men should pause before they interrupt someone and consider the implications [...]
@@ -262,7 +282,9 @@ No interrumpas cuando tu compañera está hablando.
 
 
 > Women should push back if they are interrupted for any other reason than clarity [...]
- 
+
+
+# Señala comportamientos inapropiados
 
 
 Gracias por esforzarte ❤️ cada día
@@ -279,7 +301,7 @@ SoySponsor()
 #### Si organizas una comunidad que apoya la D&I&E
 
 
-###### Sigue así, lo estás haciendo genial
+###### Sigue así, lo conseguiremos
 ❤❤👏👏
 
 
@@ -287,8 +309,12 @@ SoySponsor()
 - Sigue buscándonos e invitándonos a participar en tus eventos. Aunque  a veces te digamos que no.
 
 
+Crea alianzas con otras comunidades con tus mismos valores
+
+
 - Sigue buscando y visibilizando a programadoras no tan conocidas. Llegarán a serlo.
 - Gracias por tus esfuerzos para crear espacios diversos e inclusivos
+
 
 
 #### Si eres programadora
@@ -313,8 +339,11 @@ y todas sus variantes.
 
 
 - Apoya siempre e incondicionalmente a todas las programadoras que conozcas.
+- Lánzate a por las oportunidades que se te presenten.
+
 - Busca mentoras y mentores aliados.
-- ✨Step4ward✨
+  - 🏅Code Sherpas🏅
+  - ✨Step4ward✨
 
 
 ##### Encuéntranos en ✨Step4Ward✨
@@ -335,16 +364,16 @@ Te invito a que te hagas esta pregunta:
 > Dentro de 5 o 10 años, cuando se haya acabado esta etapa de cuidados, ¿qué habré contruido para mi?
 
 
-- Cuida tu salud, esto es una carrera de fondo, no un Sprint
+- Cuida tu salud, esto es una carrera de fondo, no un *sprint.*
 - No te olvides de que tienes experiencia vital y hasta una carrera profesional a las espaldas.
 
 
-Ten paciencia contigo misma. Esto es lo tuyo y vales mucho. Sólo estás adquiriendo una nueva competencia profesional
+Ten paciencia contigo misma al inicio. Esto es lo tuyo y vales mucho. Sólo estás adquiriendo una nueva competencia profesional
 
 
 - Honra a la versión de ti misma que te ha traído hasta este nuevo camino. 
-- Honra todo el esfuerzo que has hecho para llegar hasta aquí
-- Valora todos tus aciertos hasta ahora y acepta los desaciertos
+- Honra todo el esfuerzo que has hecho para llegar hasta aquí.
+- Valora todos tus aciertos hasta ahora y acepta los desaciertos.
 
 
 - Honra todos lo años de estudio que le dedicaste a tu carrera anterior. 
@@ -377,10 +406,39 @@ Cuando estés en tu día a día, simplemente:
 🦄
 
 
-> Gracias a Julieta Martin, Monica Verdi, Ashikka Gupta y Diana Vilé por ser la chispa inspiradora que dio vida a Code Sherpas.
+Me pidieron que explicara qué estoy haciendo para materializar el liderazgo técnico.
 
 
-[](./dist/assets/computer-science-fundamentals.png)
+## Hace un año...
+
+
+# Entrar
+
+
+# Crecer
+
+
+# Permancer
+
+
+##### La chispa inspiradora
+
+![](./dist/assets/la-chispa.png)
+
+
+##### Cofounders incansables
+
+![](./dist/assets/cofounders-incansables.png)
+
+
+> Gracias a los que nos apoyáis para que podamos seguir haciendo nuestro cachito de mundo, un poco mejor
+
+
+Nos mueve el hacer crecer a la nueva generación de mujeres programadoras
+ 
+
+
+## ¿Te unes a nosotras?
 
 
 ##### ¿Quieres ser ingeniera de software?
@@ -392,7 +450,7 @@ Cuando estés en tu día a día, simplemente:
 
 
 
-> En Code Sherpas tenemos una gran responsabilidad. Hay muchas personas, como las maravillosas programadoras que os he mostrado, que necesitan que les sigamos abriendo puertas y oportunidades
+> Tenemos una gran responsabilidad. Hay muchas personas, como las maravillosas programadoras que os he mostrado, que necesitan que les sigamos abriendo puertas y oportunidades
  
 
 
@@ -400,7 +458,7 @@ Cuando estés en tu día a día, simplemente:
  
 
 
- 
+
 ##### ¿Colaboramos?
 ![](./dist/assets/empresas.png)
 
