@@ -36,27 +36,6 @@ Bueno, veamos un poco de historia...
 
 
 
-## Sabías que....
-
-
-El número de mujeres profesionales ha crecido año tras año  
-
-
-* En **profesiones tradicionalmente masculinizadas, como Medicina o Leyes**
-* En **todas las carreras de ciencia y en todas las ingenierías**
-
-
-Excepto... sí, has adivinado
-
-
-Excepto en Informática...
-* Donde ha ido disminuyendo año tras año hasta llegar al **18% de estudiantes**.
-* Y el **13% de mujeres programadoras profesionales**
-
-
-![](./dist/assets/estadística.png)
-
-
 ¿Por qué?
 ¿Qué está pasando?
 
@@ -81,33 +60,56 @@ Gender Codes: Why women are leaving computing
 
 
 
-Volvamos al tema
+
+## Sabías que....
+
+
+El número de mujeres profesionales ha crecido año tras año
+
+
+* En **profesiones tradicionalmente masculinizadas, como Medicina o Leyes**
+* En **todas las carreras de ciencia y en todas las ingenierías**
+
+
+Excepto... sí, has adivinado
+
+
+Excepto en Informática...
+* Donde ha ido disminuyendo año tras año hasta llegar al **18% de estudiantes**.
+* Y el **13% de mujeres programadoras profesionales**
+
+
+![](./dist/assets/estadística.png)
+
+
+
+
+Pero... Hay esperanza
+
+
+
 ## La nueva generación de mujeres programadoras
 
 
-
 ¿Quiénes son?
-![Foto panel](dist/assets/spectrum-gradient.png)
-
+![Foto panel](dist/assets/la-nueva-gen.png)
 
 
 # Valientes
 
 
-
 # Talentosas
+
 
 
 ¿Qué las ha empujado al cambio?
 
 
-
-![Foto panel](dist/assets/spectrum-gradient.png)
-
+![Foto panel](dist/assets/la-nueva-gen.png)
 
 
-¿Cómo se puede revertir la situación de que haya poca representación de mujeres programadoras?
 
+¿Qué podemos hacer para impulsarlas?
 
 
 * Paso 1: Formar a mujeres en programación
