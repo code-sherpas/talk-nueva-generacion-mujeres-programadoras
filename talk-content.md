@@ -1,16 +1,18 @@
-# La nueva generación
+# La nueva generación...
+👇🏽
 
 
-# de mujeres programadoras
-
-
-
-
-Espera un momento, ¿hay una nueva generación de mujeres programadoras?
+# ...de mujeres programadoras
+🦸🏻‍♀️
 
 
 
-¿Qué pasó con la anterior generación de mujeres programadoras?
+
+Espera un momento, ¿hay una nueva generación de mujeres programadoras? 🤯
+
+
+
+¿Qué pasó con la anterior generación de mujeres programadoras? 🤔
 
 
 
@@ -21,9 +23,7 @@ Bueno, veamos un poco de historia...
 ### Los años dorados de la mujer en programación
 
 
-
 ¿Cuándo diríais que fue esa época dorada?
-
 
 
 ### Décadas 60-80
@@ -33,6 +33,7 @@ Bueno, veamos un poco de historia...
 
 
 ![La epoca dorada](./dist/assets/computer-woman.webp)
+
 
 
 #### Punto de inflexión en los 80
@@ -52,7 +53,6 @@ Un meteorito llamado...
 Y otro llamado...
 
 ![La epoca dorada](dist/assets/hostilidad.png)
-
 
 
 Gender Codes: Why women are leaving computing
@@ -138,6 +138,7 @@ Ayudarlas a
 
 * Paso 3: Conseguir que permanezcan en el sector año tras año, para adquirir *Seniority* y que sean las líderes y referentes de mañana.
 * Paso 4: Conseguir que las empresas a las que van sean diversas, inlcusivas y que ofrezcan igualdad de oportunidades.
+
 
 
 
@@ -410,7 +411,9 @@ Cuando estés en tu día a día, simplemente:
 🦄
 
 
-Me pidieron que explicara qué estoy haciendo para materializar el liderazgo técnico.
+
+Me pidieron que explicara qué estoy haciendo para materializar el liderazgo técnico femenino.
+
 
 
 ## Hace un año...
@@ -423,6 +426,7 @@ Me pidieron que explicara qué estoy haciendo para materializar el liderazgo té
 
 
 # Permancer
+
 
 
 ##### La chispa inspiradora
@@ -438,32 +442,44 @@ Me pidieron que explicara qué estoy haciendo para materializar el liderazgo té
 > Gracias a los que nos apoyáis para que podamos seguir haciendo nuestro cachito de mundo, un poco mejor
 
 
-Nos mueve el hacer crecer a la nueva generación de mujeres programadoras
+
+Nos mueve el hacer crecer a
+
+**la nueva generación de mujeres programadoras**
  
+
 
 
 ## ¿Te unes a nosotras?
 
 
-##### ¿Quieres ser ingeniera de software?
+
+##### [¿Quieres ser ingeniera de software?](https://academy.code-sherpas.rocks/computer-science-fundamentals)
+###### 🦸‍👩‍💻 🚀
 [![](./dist/assets/computer-science-fundamentals.png)](https://academy.code-sherpas.rocks/computer-science-fundamentals)
 
 
-##### ¿Quieres especializarte en backend?
+
+##### [¿Quieres especializarte en backend?](https://academy.code-sherpas.rocks/backend-entry-level)
+###### 🦸‍👩‍💻 🚀
 [![](./dist/assets/backend-entry-level.png)](https://academy.code-sherpas.rocks/backend-entry-level)
 
 
 
-> Tenemos una gran responsabilidad. Hay muchas personas, como las maravillosas programadoras que os he mostrado, que necesitan que les sigamos abriendo puertas y oportunidades
+
+> En [Code Sherpas](https://www.code-sherpas.rocks/) Tenemos una gran responsabilidad. Hay muchas personas, como las maravillosas programadoras que os he mostrado, que necesitan que les sigamos abriendo puertas y oportunidades
  
 
 
-> Para completar nuestra misión, queremos sumar a personas influyentes en **empresas**, que compartan nuestra misión y que se conviertan en nuestras **aliadas y sponsors**.
+
+> Para completar nuestra misión, [queremos sumar a personas influyentes en **empresas**](https://www.code-sherpas.rocks/empresas), que compartan nuestra misión y que se conviertan en nuestras [**aliadas y sponsors**](https://www.code-sherpas.rocks/empresas).
  
 
 
 
-##### ¿Colaboramos?
+##### [¿Colaboramos?](https://www.code-sherpas.rocks/empresas) 
+###### 🤝 👩‍💻 🚀
+
 [![](./dist/assets/empresas.png)](https://www.code-sherpas.rocks/empresas)
 
 
@@ -471,8 +487,3 @@ Nos mueve el hacer crecer a la nueva generación de mujeres programadoras
 ## ❤️ ¡Gracias!
 ###### [Cristina Twitter](https://twitter.com/cristina_verdi) | [Cristina Linkedin](https://www.linkedin.com/in/cristina-verdi/)
 ###### [Code Sherpas Twitter](https://twitter.com/codesherpas_bcn) | [Slack Code Sherpas](https://launchpass.com/code-sherpas)
-
-
-
-
-
