@@ -330,7 +330,7 @@ Crea alianzas con otras comunidades con tus mismos valores
 
 
 - Conoce las reglas del juego y úsalas. Este es un entorno que se mueve por el expertise que demuestres.
-- Haz que tu conocimiento, tus ideas y tu trabajo sean visibles y públicos.
+- [Haz que tu conocimiento, tus ideas y tu trabajo sean visibles y públicos](https://patricia.no/2019/09/12/survival_tips_for_women_in_tech.html).
 
 
 *Erradica* de tu vocabulario las expresiones:
@@ -351,7 +351,7 @@ y todas sus variantes.
 
 
 ##### Encuéntranos en ✨Step4Ward✨
-![Mentoras Step4ward](./dist/assets/mentoras-step4ward.png)
+[![Mentoras Step4ward](./dist/assets/mentoras-step4ward.png)](https://step4ward.notion.site/step4ward/Bienvenidas-a-Step4ward-2b133826a10a4fc6a5bc7686605f6357)
 
 
 - Busca apoyos para desarrollar tu resiliencia
@@ -446,11 +446,11 @@ Nos mueve el hacer crecer a la nueva generación de mujeres programadoras
 
 
 ##### ¿Quieres ser ingeniera de software?
-![](./dist/assets/computer-science-fundamentals.png)
+[![](./dist/assets/computer-science-fundamentals.png)](https://academy.code-sherpas.rocks/computer-science-fundamentals)
 
 
 ##### ¿Quieres especializarte en backend?
-![](./dist/assets/backend-entry-level.png)
+[![](./dist/assets/backend-entry-level.png)](https://academy.code-sherpas.rocks/backend-entry-level)
 
 
 
@@ -464,11 +464,15 @@ Nos mueve el hacer crecer a la nueva generación de mujeres programadoras
 
 
 ##### ¿Colaboramos?
-![](./dist/assets/empresas.png)
+[![](./dist/assets/empresas.png)](https://www.code-sherpas.rocks/empresas)
 
 
 
-❤️ ¡Gracias!  
+## ❤️ ¡Gracias!
+###### [Cristina Twitter](https://twitter.com/cristina_verdi) | [Cristina Linkedin](https://www.linkedin.com/in/cristina-verdi/)
+###### [Code Sherpas Twitter](https://twitter.com/codesherpas_bcn) | [Slack Code Sherpas](https://launchpass.com/code-sherpas)
+
+
 
 
 
