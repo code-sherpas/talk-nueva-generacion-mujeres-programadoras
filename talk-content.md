@@ -145,7 +145,7 @@ Ayudarlas a
 
 
 
-* Si eres tienes un cargo de responsabilidad en una empres
+* Si eres tienes un cargo de responsabilidad en una empresa
 * Si eres líder en tech <!-- .element: class="fragment" data-fragment-index="2" -->
 * Si eres un programador <!-- .element: class="fragment" data-fragment-index="3" -->
 * Si eres una comunidad <!-- .element: class="fragment" data-fragment-index="4" -->
