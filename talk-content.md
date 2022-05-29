@@ -2,7 +2,7 @@
 👇🏽
 
 
-# ...de mujeres programadoras
+# de mujeres programadoras
 🦸🏻‍♀️
 
 
